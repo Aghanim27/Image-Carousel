@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Image-Carousel/static/css/main.654c1294.css",
+    "main.js": "/Image-Carousel/static/js/main.b07d2d48.js",
+    "static/media/smolCat.jpg": "/Image-Carousel/static/media/smolCat.082dd50c9699c754cc9a.jpg",
+    "static/media/catGroup.jpg": "/Image-Carousel/static/media/catGroup.17a888704b6dd59ee808.jpg",
+    "static/media/twoCats.jpg": "/Image-Carousel/static/media/twoCats.76c137f53eabbb154b2e.jpg",
+    "static/media/catWithBlackNose.jpg": "/Image-Carousel/static/media/catWithBlackNose.d7fd8719b49db64a4b49.jpg",
+    "static/media/catLookingIntoMirror.jpg": "/Image-Carousel/static/media/catLookingIntoMirror.c5978939000cb36c4674.jpg",
+    "static/media/whiteCat.jpg": "/Image-Carousel/static/media/whiteCat.02cf44c9c87b384e220b.jpg",
+    "index.html": "/Image-Carousel/index.html",
+    "main.654c1294.css.map": "/Image-Carousel/static/css/main.654c1294.css.map",
+    "main.b07d2d48.js.map": "/Image-Carousel/static/js/main.b07d2d48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.654c1294.css",
+    "static/js/main.b07d2d48.js"
+  ]
+}
