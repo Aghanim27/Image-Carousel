@@ -1,0 +1,12 @@
+.carousel-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+.Btn {
+  width: auto;
+  height: 10%;
+  margin-top: 15%;
+}
